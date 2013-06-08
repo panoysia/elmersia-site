@@ -1,0 +1,14 @@
+name: Elmer A. Sia
+url: http://www.elmersia.com
+permalink: :title
+
+pygments: true
+nickname: PANOY SIA
+markdown: rdiscount
+
+# These are the default values for Jekyll's configuration, 
+# included here for reference purposes only.
+source: .
+destination: ./_site
+layouts: ./_layouts
+
