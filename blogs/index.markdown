@@ -6,15 +6,13 @@ date: 2013-06-01 15:52:55
 
 > "From the fullness of the heart the mouth speaks.."
 
-I write most of my thoughts and experiences in a journal notebook, but now that I have the means to write them online, I couldn't stop anymore. [When I started to blog](http://blog.elmersia.com/hello-blogging/), so many thoughts, ideas, and [past experiences](http://www.putshelloworld.com) sprang out of my mind like water exploding from a tank. In short, let's just say I've been bitten by the blogging bug.
+I occasionally write my thoughts, ideas, and experiences in a journal notebook, but [when I tried blogging](http://blog.elmersia.com/hello-blogging/), the frequency and motivation to write worthwhile things really increased. Many thoughts, ideas, and [past experiences](http://www.putshelloworld.com) sprang out of my mind like an exploding water tank. In short, let's just say I've been bitten by the blogging bug.
 
-**I only blog about my passions and things I care about**. What I've written on my blogs are in a way [a reflection of who I am](http://www.readingjourneys.com) and what I value in life.
+**I only blog about my passions and things I care about**. What I've written on my blogs are in a way [a reflection of who I am](http://www.readingjourneys.com) and [what I value in life](http://blog.elmersia.com).
 
 ##   [Personal blog](http://blog.elmersia.com)
 
-Mostly thoughts about my personal experiences on random things. Learnings  in computers and software development are a staple in this blog included as well, with a touch of personal development to .
-
-I love writing down my thoughts, experiences on random things, and new learnings.
+Mostly personal thoughts and aspirations in life. Learnings  in computers, technology, and software development are a staple in this blog too. I also add personal development to the mix to outgrow and prove to myself that I want to be better in life.
 
 ## [Travel blog and journal](http://www.putshelloworld.com)
 

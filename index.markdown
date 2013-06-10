@@ -35,7 +35,7 @@ Aside from procrastinating in my career, my one big mistake was not learning web
 
 # The future looks brighter
 
-As much as I can, I'd love to be in the software development industry all my life. I'd love to pursue challenging work, activities, and responsibilities within this industry that would help grow and expand my craft, and at the same time bring out the best of my talents and character. Just a number of things I have in mind:
+<!--As much as I can, I'd love to be in the software development industry all my life. I'd love to pursue challenging work, activities, and responsibilities within this industry that would help grow and expand my craft, and at the same time bring out the best of my talents and character. Just a number of things I have in mind:
 
 * open-source evangelism and teaching, i.e, mainly Ruby, Sinatra, Rails 
 * becoming a software development trainer and speaker
@@ -76,4 +76,4 @@ But life is unpredictable, the best thing I
 
 My skills and values matters the most to me
 
-I am doing my best to prepare and be open to any opportunity and responsibility that will come my way; that will allow me to showcase my values and skills.
+I am doing my best to prepare and be open to any opportunity and responsibility that will come my way; that will allow me to showcase my values and skills.-->

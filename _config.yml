@@ -12,3 +12,4 @@ source: .
 destination: ./_site
 layouts: ./_layouts
 
+exclude: ['*.json', '*.md']
