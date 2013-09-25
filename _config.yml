@@ -12,4 +12,4 @@ source: .
 destination: ./public # the default is '_site'
 layouts: ./_layouts
 
-exclude: ['*.json', '*.md', 'Rakefile', '.DS_Store']
+exclude: ['todo.txt','*.json', '*.md', 'Rakefile', '.DS_Store']

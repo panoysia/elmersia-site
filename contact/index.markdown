@@ -11,5 +11,5 @@ date: 2013-06-01 15:52:55
 * **Facebook**: [panoysia](https://www.facebook.com/panoysia)
 * **Twitter**: [panoy_sia](https://twitter.com/panoy_sia)
 * **GitHub**: [panoysia](https://github.com/panoysia)
-* **Couchsurfing**: [Panoy](https://www.couchsurfing.org/people/panoy/)
+
 
