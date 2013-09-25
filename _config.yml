@@ -9,7 +9,7 @@ markdown: rdiscount
 # These are the default values for Jekyll's configuration, 
 # included here for reference purposes only.
 source: .
-destination: ./_site
+destination: ./public # the default is '_site'
 layouts: ./_layouts
 
-exclude: ['*.json', '*.md']
+exclude: ['*.json', '*.md', 'Rakefile', '.DS_Store']

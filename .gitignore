@@ -1,2 +1,6 @@
+# Ignore Jekyll generated folders named "_site" (default) 
+# and "public" (custom)
 _site
+public
+
 .DS_Store

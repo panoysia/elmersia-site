@@ -1,3 +1,3 @@
-This is my personal and portfolio site. All professional and personal information about me is listed here; what work and projects I'm currently working on with regards to my career and the passionate things I love in my life that I love writing about.
+This is my personal and portfolio site. Listed here are mainly my professional details and aspirations; what work and projects I'm currently working on with regards to my career. Also included are links to my blogs where I write things and activities I'm truly passionate about.
 
-It's created with the help of [Jekyll](http://jekyllrb.com), a static site generator made in Ruby. Go check my site at [http://www.elmersia.com](http://www.elmersia.com).
+I use [Jekyll](http://jekyllrb.com) — a static site generator made in [Ruby](https://www.ruby-lang.org/en/), to create the site. Check it at [http://www.elmersia.com](http://www.elmersia.com).
