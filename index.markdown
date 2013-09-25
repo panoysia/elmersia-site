@@ -13,12 +13,4 @@ I am passionate in (continuous) learning and teaching the craft of software deve
 
 My other healthy distractions are [personal blogging](http://blog.elmersia.com), [teaching](http://www.putshelloworld.com), [traveling](http://travels.elmersia.com), [reading, and everything related to personal development](http://www.readingjourneys.com).
 
-I’m also very open to mentoring, community collaboration and advocacy like developer groups and technology evangelism. Please don’t hesitate to [contact me](http://www.elmersia.com/contact) if you’re in need of my skills and services.
-
-#Skills:
-
-* Ruby 
-* Ruby on Rails, Sinatra 
-* JavaScript, jQuery
-* MySQL, MongoDB
-* Visual Basic 6
+I’m also very open to mentoring, community collaboration and advocacy like developer groups and technology evangelism. Please don’t hesitate to [contact me](http://www.elmersia.com/contact) if you’re in need of [my skills and services](http://www.elmersia.com/services).

@@ -4,7 +4,7 @@ title: Blogs
 date: 2013-06-01 15:52:55
 ---
 
-> "From the fullness of the heart the mouth speaks."
+> "From the fullness of the heart the mouth speaks." - The Bible
 
 > "Blogs are interesting because they are honest windows into other people's interests and passions." - [Jeff Atwood](http://www.codinghorror.com/blog/)
 
@@ -12,7 +12,7 @@ Below are links to all the blogs and sites I own and maintain. They're all about
 
 ##[Personal blog](http://blog.elmersia.com)
 
-This blog is mostly about my personal thoughts and aspirations in life. Most content is all about my interests in computers, software development, and living a life of [Arete](http://en.wikipedia.org/wiki/Arete) (excellence).
+This blog is mostly about my personal thoughts and aspirations in life. Most content is all about my interest in computers, software development, and living a life of [Arete](http://en.wikipedia.org/wiki/Arete) (excellence).
 
 ##[My travel journal](http://travels.elmersia.com/)
 
