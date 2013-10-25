@@ -14,7 +14,7 @@ Below are links to all the blogs and sites I own and maintain. They're all about
 
 This blog is mostly about my personal thoughts and aspirations in life. Most content is all about my interest in computers, software development, and living a life of [Arete](http://en.wikipedia.org/wiki/Arete) (excellence).
 
-##[My travel journal](http://travels.elmersia.com/) *(under construction)*
+##[My travel journal](http://travels.elmersia.com/)
 
 **I love traveling**. Aside from the obvious reasons and benefits of traveling, I mostly do it for spiritual reasons, especially if I do it alone. Spiritual because it allows me to recharge and center myself, meditate and introspect more about what I would want to do in my life, and most of all, be in awe of all of the Divine's creation.
 
