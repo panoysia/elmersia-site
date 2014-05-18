@@ -5,43 +5,39 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
-
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
-
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <!-- <link rel="stylesheet" href="/css/main.css"> -->
+        <!-- bootstrap cdn -->
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 
     </head>
     <body>
-
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-      
-              {% include navigation.html %}
+      <div class="container">        
+        <!-- {% include navigation.html %} -->
+        <div class="row">
+          <div class="col-md-12">
+            <div class="col-md-4">
+              <h1>pic here</h1>
+              <img src="" alt="">
             </div>
-     
-                {{ content }}
-
-<!--             <div class="footer">
-              <div class="contact">
-                <p>
-                  Elmer A. Sia<br />
-                  passionate individual<br />
-                  pragmatic_panoy@yahoo.com
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/panoysia/">Github: github.com/panoysia</a><br />
-                  <a href="http://twitter.com/panoy_sia/">Twitter: @panoysia</a><br />
-                </p>
-              </div>
-            </div> -->
+            <div class="col-md-8">
+              <h1 class="title"><a href="/">{{ site.name }}</a></h1>    
+              <p>My details...</p>
+            </div>
+            
+            {{ content }}
           </div>
-        </div> <!-- /container -->
+        </div>
+        
 
+        <!-- <div class="site">
+          <div class="header">  
+          </div> 
+        </div>  -->
+
+      </div> <!-- container -->
+      <!-- include javascript files here -->
     </body>
 </html>
