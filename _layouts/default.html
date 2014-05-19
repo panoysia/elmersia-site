@@ -5,38 +5,38 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-        <!-- Custom CSS -->
-        <!-- <link rel="stylesheet" href="/css/main.css"> -->
-        <!-- bootstrap cdn -->
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-
+        <meta content="Elmer A. Sia - Computer Programmer, Instructor, and Ruby and Ruby on Rails enthusiast in Iloilo City, Philippines." name="description">
+        <meta content="Elmer A. Sia, pragmatic_panoy@yahoo.com" name="author">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">        
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans'>
+        <link rel="stylesheet" href="/css/custom.css">
     </head>
     <body>
-      <div class="container">        
+      <div class="container center-block">
         <!-- {% include navigation.html %} -->
         <div class="row">
+          <div class="col-md-4 img-placeholder">
+            <img class="img-thumbnail" src="/images/elmer.jpg" alt="">
+          </div>
+          <div class="col-md-8">
+            <h1 class="title">Elmer A. Sia</h1>    
+            <p class="info">Computer Programmer, Instructor</p>
+            <p class="info">Iloilo City, Philippines</p>
+            <p class="info">pragmatic_panoy@yahoo.com</p>
+            <ul class="social">
+              <li><a href="http://ph.linkedin.com/in/panoysia"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+              <li><a href="https://github.com/panoysia"><i class="fa fa-github-square fa-2x"></i></a></li>
+              <li><a href="https://twitter.com/panoy_sia"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+              <li><a href="https://www.facebook.com/panoysia"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+            </ul>
+          </div>
+        </div> <!-- end row -->
+        <div class="row main-content">
           <div class="col-md-12">
-            <div class="col-md-4">
-              <h1>pic here</h1>
-              <img src="" alt="">
-            </div>
-            <div class="col-md-8">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>    
-              <p>My details...</p>
-            </div>
-            
             {{ content }}
           </div>
         </div>
-        
-
-        <!-- <div class="site">
-          <div class="header">  
-          </div> 
-        </div>  -->
-
       </div> <!-- container -->
       <!-- include javascript files here -->
     </body>
