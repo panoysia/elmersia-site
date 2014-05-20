@@ -1,42 +1,47 @@
+div {
+  /*border: 1px solid red;*/
+}
+
 body {
   font-family: 'Open Sans', sans-serif;  
 }
 
 .container {
-  width: 750px;  
-}
-
-.main-content {
-  font-size: 18px;
-  padding-top: 14px;
-}
-
-p {
-  /*font-size: 18px;*/
-}
-
-.thumbnail {
-  /*width : 220px;
-  height: 220px;*/
+  width: 750px;
+  margin-top: 20px; 
 }
 
 .img-placeholder {
   padding: 10px;
 }
 
-div {
-  /*border: 1px solid red;*/
+.name {
+  margin-top: 5px;
+  font-size: 60px;
+  font-weight: 500;
 }
 
 .info {
-  border-spacing: 0;
+  font-size: 18px;
+  margin: 0px 0px;
+}
+
+#map-marker {
+  padding-left: 4px;
+  padding-right: 4px;
 }
 
 ul.social {
   padding-left: 0px;
+  padding-top: 10px;
 }
 
 ul.social li {
   display: inline;
   list-style: none;
+}
+
+.main-content {
+  font-size: 20px;
+  padding-top: 14px;
 }
