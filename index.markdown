@@ -2,7 +2,7 @@
 layout: default
 title: "Elmer A. Sia"
 ---
-I'm a freelance computer programmer and part-time computer instructor. I love to program and solve problems using the [Ruby](https://www.ruby-lang.org/en/) programming language and the [Rails](http://rubyonrails.org/) web development framework for web application development.
+I'm a freelance computer programmer and part-time computer instructor. I love to program and solve problems using the [Ruby](https://www.ruby-lang.org/en/) programming language and the [Ruby on Rails](http://rubyonrails.org/) web development framework for web application development.
 
 I also teach web development to college students with strong focus on [JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript), [PHP](http://www.php.net/), and [MySQL](http://www.mysql.com/). 
 
