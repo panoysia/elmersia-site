@@ -1,11 +1,14 @@
+# Site settings
 name: Elmer A. Sia
-url: http://www.elmersia.com
-permalink: :title
+title: Elmer A. Sia
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+baseurl: ""
+url: "http://www.elmersia.com"
+nickname: panoy sia
 
-# pygments: true
-highlighter: pygments
-nickname: PANOY SIA
-markdown: rdiscount
+# Build settings
+markdown: kramdown
+permalink: pretty
 
 # These are the default values for Jekyll's configuration, 
 # included here for reference purposes only.
@@ -13,4 +16,13 @@ source: .
 destination: ./public # the default is '_site'
 layouts: ./_layouts
 
-exclude: ['todo.txt','*.json', '*.md', 'Rakefile', '.DS_Store']
+# Exclude from list:
+#   * old-config.yml 
+#   * projects/
+#   * todo.txt
+
+exclude: ['old-config.yml','projects','todo.txt','*.json', '*.md', 'Rakefile', '.DS_Store']
+
+#email: your-email@domain.com
+# twitter_username: jekyllrb
+# github_username:  jekyll

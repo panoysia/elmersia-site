@@ -1,0 +1,16 @@
+name: Elmer A. Sia
+url: http://www.elmersia.com
+permalink: :title
+
+# pygments: true
+highlighter: pygments
+nickname: PANOY SIA
+markdown: rdiscount
+
+# These are the default values for Jekyll's configuration, 
+# included here for reference purposes only.
+source: .
+destination: ./public # the default is '_site'
+layouts: ./_layouts
+
+exclude: ['todo.txt','*.json', '*.md', 'Rakefile', '.DS_Store']
